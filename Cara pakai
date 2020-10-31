@@ -1,0 +1,13 @@
+#Cara pakai
+
+Subrek My Channel Zuke Nafi'an
+
+pkg update && pkg upgrade 
+pkg install python2 git
+git clone https://github.com/ZUKE-NEW/Tool-New
+cd Tool-New
+sh Xguard06.sh
+
+Lebih Lanjut Tonton Video Inie ~`
+
+https://youtu.be/pcfLUnkpLzM
